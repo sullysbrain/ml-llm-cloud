@@ -2,9 +2,8 @@ _documents
 _private
 _downloads
 logs
-nikki/_private
-nikki/nikki_beta.py
-nikki/models
+models
+model
 
 __pycache__
 models/_transformers
